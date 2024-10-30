@@ -46,7 +46,7 @@ listEl.appendChild(li4);
 
 h1El.setAttribute("style", "margin:50px; width:50%, text-align:center;");
 infoEl.setAttribute("style","margin:auto; width:50%, text-align:center;");
-imgEl.setAttribute("src", "/images/kittys.png");
+imgEl.setAttribute("src", "../images/kittys.png");
 // imgEl.setAttribute("src", "/images/grey-kitty.png");
 nameEl.setAttribute("style", "font-size: 25px; text-align:center;");
 kittenEl.setAttribute("style", "font-size: 25px; text-align: center;");
